@@ -1,2 +1,2 @@
-# create-PoN-nf
-Nextflow process/component for creating Panel of Normals for Mutect2
+# Mutect2TumorOnlyMode-nf
+Single nextflow process Mutect2TumorOnlyMode component intended to be flowcraft-ed 🐳📦 (https://github.com/assemblerflow/flowcraft)
